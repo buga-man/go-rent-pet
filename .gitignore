@@ -19,3 +19,5 @@
 
 # Go workspace file
 go.work
+.metals/metals.lock.db
+.vscode/settings.json
